@@ -69,7 +69,7 @@ export const Home = () => {
     <div className={styles.home}>
       <Meta
         title="Designer + Developer"
-        description="Design portfolio of Hamish Williams — a product designer working on web & mobile
+        description="Design portfolio of Zayeef Zahid — a product designer working on web & mobile
           apps with a focus on motion, experience design, and accessibility."
       />
       <Intro
@@ -107,7 +107,7 @@ export const Home = () => {
         title="Video game progress tracking"
         description="Design and development for a video game tracking app built in React Native"
         buttonText="View website"
-        buttonLink="https://gamestack.hamishw.com"
+        buttonLink="https://gamestack.zayeef.dev"
         model={{
           type: 'phone',
           alt: 'App login screen',
