@@ -1,5 +1,5 @@
-<svg width="48" height="29" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="24" font-size="24" font-family="Courier New, monospace" font-weight="bold" fill="blue" transform="skewX(-10)">
+<svg width="48" height="29" xmlns="http://www.w3.org/2000/svg" style="background: black;">
+  <text x="0" y="24" font-size="24" font-family="Arial Black, sans-serif" font-weight="900" fill="white" letter-spacing="2" transform="skewX(-10)">
     Z
   </text>
 </svg>
